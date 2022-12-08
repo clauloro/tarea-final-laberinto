@@ -1,3 +1,3 @@
 # tarea-final-laberinto
 usuaario clauloro
-https://github.com/clauloro/tarea-final-laberinto.git
+repositorio https://github.com/clauloro/tarea-final-laberinto.git
